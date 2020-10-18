@@ -1,0 +1,23 @@
+{
+  "name": "com.kirbyrawr.dotnetstandard-bip32",
+  "version": "1.0.0",
+  "displayName": "BIP32",
+  "description": "This is a package that contains the 'dotnetstandard-bip32' libraries compiled to use in Unity.\nThe code credits go to the original authors of 'dotnetstandard-bip32'.",
+  "unity": "2019.1",
+  "unityRelease": "1f1",
+  "keywords": [
+    "bip32",
+    "dlls",
+    "compiled"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Kirbyrawr/dotnetstandard-bip32.git"
+  },
+  "license": "Apache 2.0",
+  "author": {
+    "name": "Kirbyrawr",
+    "email": "devkirbyrawr@gmail.com"
+  },
+  "type": "library"
+}
